@@ -1,0 +1,25 @@
+{
+  "name": "autohook-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "i": "^0.3.6",
+    "twitter-autohook": "^1.7.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluufish/halo-tweet-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bluufish/halo-tweet-test/issues"
+  },
+  "homepage": "https://github.com/bluufish/halo-tweet-test#readme"
+}
